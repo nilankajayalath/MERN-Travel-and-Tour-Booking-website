@@ -3,7 +3,7 @@
 In this project, I integrated MongoDB, Express.js, React.js, and Node.js to create a seamless and efficient web site.
 
 # ℹ️ The key features of this innovative app include:
-#  📱 Responsive design for optimal performance across all devices.
+*  📱 Responsive design for optimal performance across all devices.
 #  📱 Booking of any tour for a particular date.
 #  🏞️ Getting a tour guide.
 #  🌏️ Giving a review to any tour(Feedback).
