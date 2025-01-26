@@ -9,3 +9,11 @@ In this project, I integrated MongoDB, Express.js, React.js, and Node.js to crea
 *  🌏️ Giving a review to any tour(Feedback).
 *  🗳️ Simple and user-friendly interface for effortless navigation.
 * ✔️ Still leveraging RESTful API integration for fast, efficient back-end communication.
+
+# Run Frontend
+* cd frontend
+* npm run start
+
+# Run Backend
+* cd backend
+* npm run start-dev    
